@@ -1,10 +1,9 @@
 # TweetApp
 
-test
-
 ## Install prerequisites
 
 - Node.js (18.x or newer)
+- MySQL (8.x or newer)
 
 ## Install
 
